@@ -3,23 +3,7 @@
 
   - 🔭 I’m currently working to **improve my development skills.** 
   - 🌱 I’m currently learning **Full-stack Development.** 
-  - 👯 I’m looking to collaborate on **interesting projects.** 
-  - 👨‍💻 All of my projects will be available at **my portfolio, coming soon.** 
   - 📫 You can reach me at my e-mail **zakeesdv@gmail.com**
-
-  <h3 align="center">Contact me</h3>
-  <p align="center">
-    <a
-      href="https://linkedin.com/in/raúl-naharro-fernández-275353172"
-      target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="raúl-naharro-fernández-275353172"
-        height="30"
-        width="40"
-    /></a>
-  </p>
 
   <h3 align="center">Tools and languages I work with</h3>
   <p align="center">
