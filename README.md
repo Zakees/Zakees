@@ -1,8 +1,9 @@
   <h1 align="center">Hi, I'm Raúl 👋</h1>
   <h3 align="center">A full-stack development student from Spain.</h3>
 
-  - 🔭 I’m currently working to **improve my development skills.** 
-  - 🌱 I’m currently learning **Full-stack Development.** 
+  - 🔭 I’m currently working to **improve my development skills** by developing on small projects. 
+  - 🌱 I’m currently learning **Web Applications Development.**
+  - 💼 I've worked as translator (ENG->ESP) and Web Developer.
   - 📫 You can reach me at my e-mail **zakeesdv@gmail.com**
 
   <h3 align="center">Tools and languages I work with</h3>
@@ -91,9 +92,25 @@
         height="40"
       />
     </a>
+    <a href="https://php.net" target="_blank" rel="noreferrer">
+      <img 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+        alt="php"
+        width="40"
+        height="40"
+      />  
+    </a>
+    <a href="https://laravel.com" target="_blank" rel="noreferrer">
+      <img 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+        alt="laravel"
+        width="40"
+        height="40"
+      />  
+    </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
         alt="photoshop"
         width="40"
         height="40"
