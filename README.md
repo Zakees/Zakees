@@ -1,12 +1,15 @@
-  <h1 align="center">Hi, I'm Raúl 👋</h1>
-  <h3 align="center">A full-stack development student from Spain.</h3>
+<h1 align="center">Hi, I'm Raúl</h1>
+<h3 align="center">A Full-Stack Developer in training from Spain</h3>
 
-  - 🔭 I’m currently working to **improve my development skills** by developing on small projects. 
-  - 🌱 I’m currently learning **Web Applications Development.**
-  - 💼 I've worked as translator (ENG->ESP) and Web Developer.
-  - 📫 You can reach me at my e-mail **zakeesdv@gmail.com**
+### About Me
+👨‍💻 I'm a full-stack development student passionate about improving my skills through small projects. Currently, I'm learning web application development.
 
-  <h3 align="center">Tools and languages I work with</h3>
+### Experience
+- **Head Translator** (ENG->ESP) for RimWorld
+- **Web and Game Developer** on personal proyect and volunteer work
+
+### Tools and Languages
+<h3 align="center">Tools and languages I work with</h3>
   <p align="center">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img
@@ -137,3 +140,9 @@
       />
     </a>
   </p>
+
+### Featured Projects
+- **RimWorld Translation**: Lead translator for the Spanish version of RimWorld, responsible for translating the game’s content from English to Spanish, ensuring accuracy and cultural relevance.
+
+### Contact
+You can reach me at: **zakeesdv@gmail.com**
