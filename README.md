@@ -60,7 +60,7 @@
     </a>
     <a href="https://angularjs.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
         alt="react"
         width="40"
         height="40"
