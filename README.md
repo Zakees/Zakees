@@ -58,6 +58,14 @@
         height="40"
       />
     </a>
+    <a href="https://angularjs.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg"
+        alt="react"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://php.net" target="_blank" rel="noreferrer">
       <img 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
