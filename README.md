@@ -10,7 +10,7 @@
 
 ### Tools and Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,react,angular,php,laravel,cs,java,mysql,nodejs,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,vue,angular,nodejs,nestjs,php,laravel,cs,java,prisma,mysql,git,docker,linux&perline=10" />
 </p>
 
 ### Featured Projects
