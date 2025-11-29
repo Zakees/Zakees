@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Raúl</h1>
-<h3 align="center">A Full-Stack Developer from Spain</h3>
 
 ### About Me
-👨‍💻 I'm a full-stack web developer passionate about clean code, scalable solutions, and continuous learning. I enjoy working on personal and collaborative projects that challenge me to grow and improve.
+Full-stack developer and game localization translator. I like building things that solve real problems and improving a little with each project. I also work on game translation, where I focus on clarity, consistency, and natural language.
 
 ### Experience
-- **Head Translator** (ENG->ESP) for RimWorld
-- **Web and Game Developer** on personal and volunteer projects
+- **Professional Web Developer**.
+- **Lead Translator** (EN -> ES) for RimWorld
+- **Web & Game Developer** in personal and volunteer projects
 
 ### Tools and Languages
 <p align="center">
@@ -15,6 +15,3 @@
 
 ### Featured Projects
 - **RimWorld Translation**: Lead translator for the Spanish version of RimWorld, responsible for translating the game’s content from English to Spanish, ensuring accuracy and cultural relevance.
-
-### Contact
-You can reach me at: **zakeesdv@gmail.com**
