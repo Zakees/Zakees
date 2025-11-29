@@ -4,7 +4,7 @@
 Full-stack developer and game localization translator. I like building things that solve real problems and improving a little with each project. I also work on game translation, where I focus on clarity, consistency, and natural language.
 
 ### Experience
-- **Professional Web Developer**.
+- **Professional Web Developer**
 - **Lead Translator** (EN -> ES) for RimWorld
 - **Web & Game Developer** in personal and volunteer projects
 
